@@ -1,0 +1,5 @@
+local HWID_Table = {
+    ['R5Y3adsneDNggdv3OXsnrwRkMVKYh1Ru'] = 'EFE6FE5A-EF94-4274-85D1-EC6BA6E71CCA',
+ 
+}
+return HWID_Table
