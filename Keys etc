@@ -1,3 +1,5 @@
+-- Trident Survival
+
 local HWID_Table = {
     ['R5Y3adsneDNggdv3OXsnrwRkMVKYh1Ru'] = 'EFE6FE5A-EF94-4274-85D1-EC6BA6E71CCA', -- BurnHub
     ['R7Y3adsbeDNggdv3OXsnrwZkMVKYh1Ru'] = '6FE8C195-0D34-40E4-AE3D-7D09744546BF', -- ZAOF
